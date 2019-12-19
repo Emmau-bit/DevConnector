@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://emmy:emmy@devconnector-d6ukr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "masecret",
+  "githubClientId": "dc0210e0a4523e5b43ef",
+  "githubSecret": "e92152ce87acd4d895503a0102a0a93a7121bb51"
+}
